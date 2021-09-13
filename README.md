@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Aruna Sattupalli
+- 👀 I’m interested in DevOps and Programming
+- 🌱 I’m currently learning AWS
+- 📫 Reach me by email on aruna0722@gmail.com
